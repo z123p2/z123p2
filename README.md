@@ -74,9 +74,12 @@ Now I'm switching my focus to Machine Learning and AI development.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=z123p2&show_icons=true&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z123p2&layout=compact&hide_border=true)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github)
+
+![Streak stats](https://streak-stats.demolab.com?user=z123p2&hide_border=true)
 
 ## Contacts
 

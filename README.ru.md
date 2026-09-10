@@ -74,9 +74,12 @@
 
 ## Статистика GitHub
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=z123p2&show_icons=true&hide_border=true)
+![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=z123p2&layout=compact&hide_border=true)
+![Репо по языкам](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github)
+![Топ языков по коммитам](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github)
+
+![Серия контрибуций](https://streak-stats.demolab.com?user=z123p2&hide_border=true&locale=ru)
 
 ## Контакты
 
