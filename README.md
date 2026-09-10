@@ -1,54 +1,87 @@
-Hi 👋 My name is Pavel
-======================
+English | [Русский](README.ru.md)
 
-AI Developer
-------------
+# Hi, I'm Pavel
 
-### System Administrator (Windows Server):
-* Monitoring and maintenance of LAN performance.
-* Administration of corporate websites.
-* Management of VoIP systems (PBX) and SMS broadcasting.
-* Deployment and configuration of Zabbix monitoring systems on virtual machines and Raspberry Pi.
-* Development of a Python adapter for integrating LoRaWAN-based sensors.
-* Installation and configuration of LoRaWAN servers.
-* Development of Python parsers for data processing.
+**AI & Automation Developer**
 
-### RPA Developer
-* Design and implementation of RPA bots on PIX and UiPath platforms.
-* Automated data extraction from PDF (using Tesseract OCR) and templated insertion into DOC files.
-* Web scraping and data parsing from information systems.
-* API integration with 1C, Bitrix24, GigaChat, stability.ai, Telegram Bot API, and other systems.
-* Regex-based text processing and data normalization.
-* Database management (PostgreSQL).
-* Configuration of RPA orchestrators (PIX, UiPath).
-* Development of custom activities for RPA platforms.
-* Documentation of Automated Solution Design (ASD).
-* Deployment and tuning of AI model servers (llama, gemma, mistral, deepseek, qwen, etc.).
-* Business process automation via n8n.
+11+ years in IT. I build automation with Python, JavaScript, RPA and LLM-based services.
+Now I'm switching my focus to Machine Learning and AI development.
 
-### 
-* ✉️  You can contact me at [dev-rpa@ya.ru](mailto:dev-rpa@ya.ru)
-* 🧠  I'm learning AI Developer
-* 🤝  I'm open to collaborating on interesting projects
+## About me
 
-### Skills
+- I worked as a systems engineer and RPA developer/analyst
+- I deployed local LLM servers (Llama, Mistral, Qwen, Gemma, DeepSeek) in production
+- I built API integrations: GigaChat, 1C, Bitrix24, Telegram Bot API
+- Now I study neural networks: CV, NLP, RAG systems
+- I like automation: any manual task is a candidate for a script
 
+## Now learning
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" title="Sublime Text"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender"/></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" title="Flutter"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+- Neural networks course: Computer Vision, NLP, time series, reinforcement learning
+- RAG pipelines: hybrid search, reranking, knowledge graphs
+- ML fundamentals: sklearn, XGBoost
 
+## Skills
 
-### Socials
+### Fundamental
 
-<p align="left"> <a href="https://www.github.com/z123p2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.gitlab.com/z123p2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="Gitlab" title="Gitlab" /> </picture> </a></p>
+- OS: Linux, Windows Server
+- Networks: MQTT, TCP/IP, LoRaWAN
+- Databases: SQL, PostgreSQL, MySQL, SQLite
 
-### Badges
+### Applied
 
-<b>My GitHub Stats</b>
+- Python: pandas, numpy, scikit-learn, XGBoost
+- LLM: OpenAI API, GigaChat API, embeddings, RAG
+- RPA: PIX, UiPath, SaluteRPA
+- Automation: n8n, Tesseract OCR, web scraping
+- Bots: aiogram 3, Telegram Bot API
+- JavaScript: Chrome extension development
+- Git
 
-<a href="http://www.github.com/z123p2"><img src="https://github-readme-stats.vercel.app/api?username=z123p2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="z123p2's GitHub stats" /></a>
+## Projects
 
-<a href="http://www.github.com/z123p2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=z123p2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### NLP / RAG
 
-<a href="https://github.com/z123p2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z123p2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+| Project | Description |
+|---|---|
+| [neiro_sotrudnik_44fz_rag_agent](https://github.com/z123p2/neiro_sotrudnik_44fz_rag_agent) | RAG agent for Russian public procurement law (44-FZ): hybrid search, HyDE, reranking, knowledge graph |
+| [knowledge-base-olympics-2022-bot](https://github.com/z123p2/knowledge-base-olympics-2022-bot) | Telegram bot: embeddings search + GPT answers over a knowledge base |
+
+### Data Science
+
+| Project | Description |
+|---|---|
+| [churn_prediction](https://github.com/z123p2/churn_prediction) | Customer churn prediction with XGBoost: EDA, feature importance, business insights |
+
+### AI applications
+
+| Project | Description |
+|---|---|
+| [android_flutter_aichat](https://github.com/z123p2/android_flutter_aichat) | Chat app for OpenRouter.ai (Flutter, Dart): PIN auth, SQLite, APK builds on GitHub Actions |
+| [android_flet_aichat](https://github.com/z123p2/android_flet_aichat) | Same app in Python (Flet): two implementations of one product |
+
+### Automation
+
+| Project | Description |
+|---|---|
+| [python_quiz_12_5_bot](https://github.com/z123p2/python_quiz_12_5_bot) | Telegram quiz bot: aiogram 3, async, SQLite stats |
+| Chrome extensions | Colab automation, link copying |
+| [pix_gpt_copyright](https://github.com/z123p2/pix_gpt_copyright) | RPA robot (PIX Studio): news parsing -> ChatGPT translation -> image generation -> Word -> Telegram |
+| [pix_bank_guarantee](https://github.com/z123p2/pix_bank_guarantee) | RPA robot (PIX Studio): IMAP forms -> Excel validation -> bank web form -> notifications (Telegram/email/LAN/PostgreSQL) |
+| [uipath_bitrix24_lead_manager](https://github.com/z123p2/uipath_bitrix24_lead_manager) | RPA robot (UiPath): Bitrix24 leads via REST API, Excel reports |
+| [android_callstopspam](https://github.com/z123p2/android_callstopspam) | Android app (Java, API 16+): auto-rejects unknown calls, airplane mode scheduler |
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=z123p2&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z123p2&layout=compact&hide_border=true)
+
+## Contacts
+
+- Email: [dev-rpa@ya.ru](mailto:dev-rpa@ya.ru)
+- Telegram: [@tg_dev_rpa](https://t.me/tg_dev_rpa)
+- Gmail: [121535q@gmail.com](mailto:121535q@gmail.com)
+
+I'm open to collaboration on interesting AI projects and business process automation.
