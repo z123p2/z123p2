@@ -74,12 +74,24 @@ Now I'm switching my focus to Machine Learning and AI development.
 
 ## GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github" alt="GitHub stats" />
+</picture>
 
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github" alt="Repos per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github" alt="Most commit language" />
+</picture>
 
-![Streak stats](https://streak-stats.demolab.com?user=z123p2&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=z123p2&hide_border=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=z123p2&hide_border=true" alt="Streak stats" />
+</picture>
 
 ## Contacts
 

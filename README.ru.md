@@ -74,12 +74,24 @@
 
 ## Статистика GitHub
 
-![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github" alt="Статистика GitHub" />
+</picture>
 
-![Репо по языкам](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github)
-![Топ языков по коммитам](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github" alt="Репо по языкам" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github" alt="Топ языков по коммитам" />
+</picture>
 
-![Серия контрибуций](https://streak-stats.demolab.com?user=z123p2&hide_border=true&locale=ru)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=z123p2&hide_border=true&locale=ru&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=z123p2&hide_border=true&locale=ru" alt="Серия контрибуций" />
+</picture>
 
 ## Контакты
 
