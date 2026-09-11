@@ -45,52 +45,52 @@ Now I'm switching my focus to Machine Learning and AI development.
 
 | Project | Description |
 |---|---|
-| [neiro_sotrudnik_44fz_rag_agent](https://github.com/z123p2/neiro_sotrudnik_44fz_rag_agent) | RAG agent for Russian public procurement law (44-FZ): hybrid search, HyDE, reranking, knowledge graph |
-| [knowledge-base-olympics-2022-bot](https://github.com/z123p2/knowledge-base-olympics-2022-bot) | Telegram bot: embeddings search + GPT answers over a knowledge base |
+| [neiro_sotrudnik_44fz_rag_agent](https://github.com/iceflux/neiro_sotrudnik_44fz_rag_agent) | RAG agent for Russian public procurement law (44-FZ): hybrid search, HyDE, reranking, knowledge graph |
+| [knowledge-base-olympics-2022-bot](https://github.com/iceflux/knowledge-base-olympics-2022-bot) | Telegram bot: embeddings search + GPT answers over a knowledge base |
 
 ### Data Science
 
 | Project | Description |
 |---|---|
-| [churn_prediction](https://github.com/z123p2/churn_prediction) | Customer churn prediction with XGBoost: EDA, feature importance, business insights |
+| [churn_prediction](https://github.com/iceflux/churn_prediction) | Customer churn prediction with XGBoost: EDA, feature importance, business insights |
 
 ### AI applications
 
 | Project | Description |
 |---|---|
-| [android_flutter_aichat](https://github.com/z123p2/android_flutter_aichat) | Chat app for OpenRouter.ai (Flutter, Dart): PIN auth, SQLite, APK builds on GitHub Actions |
-| [android_flet_aichat](https://github.com/z123p2/android_flet_aichat) | Same app in Python (Flet): two implementations of one product |
+| [android_flutter_aichat](https://github.com/iceflux/android_flutter_aichat) | Chat app for OpenRouter.ai (Flutter, Dart): PIN auth, SQLite, APK builds on GitHub Actions |
+| [android_flet_aichat](https://github.com/iceflux/android_flet_aichat) | Same app in Python (Flet): two implementations of one product |
 
 ### Automation
 
 | Project | Description |
 |---|---|
-| [python_quiz_12_5_bot](https://github.com/z123p2/python_quiz_12_5_bot) | Telegram quiz bot: aiogram 3, async, SQLite stats |
+| [python_quiz_12_5_bot](https://github.com/iceflux/python_quiz_12_5_bot) | Telegram quiz bot: aiogram 3, async, SQLite stats |
 | Chrome extensions | Colab automation, link copying |
-| [pix_gpt_copyright](https://github.com/z123p2/pix_gpt_copyright) | RPA robot (PIX Studio): news parsing -> ChatGPT translation -> image generation -> Word -> Telegram |
-| [pix_bank_guarantee](https://github.com/z123p2/pix_bank_guarantee) | RPA robot (PIX Studio): IMAP forms -> Excel validation -> bank web form -> notifications (Telegram/email/LAN/PostgreSQL) |
-| [uipath_bitrix24_lead_manager](https://github.com/z123p2/uipath_bitrix24_lead_manager) | RPA robot (UiPath): Bitrix24 leads via REST API, Excel reports |
-| [android_callstopspam](https://github.com/z123p2/android_callstopspam) | Android app (Java, API 16+): auto-rejects unknown calls, airplane mode scheduler |
+| [pix_gpt_copyright](https://github.com/iceflux/pix_gpt_copyright) | RPA robot (PIX Studio): news parsing -> ChatGPT translation -> image generation -> Word -> Telegram |
+| [pix_bank_guarantee](https://github.com/iceflux/pix_bank_guarantee) | RPA robot (PIX Studio): IMAP forms -> Excel validation -> bank web form -> notifications (Telegram/email/LAN/PostgreSQL) |
+| [uipath_bitrix24_lead_manager](https://github.com/iceflux/uipath_bitrix24_lead_manager) | RPA robot (UiPath): Bitrix24 leads via REST API, Excel reports |
+| [android_callstopspam](https://github.com/iceflux/android_callstopspam) | Android app (Java, API 16+): auto-rejects unknown calls, airplane mode scheduler |
 
 ## GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iceflux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iceflux&theme=github" alt="GitHub stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github" alt="Repos per language" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iceflux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iceflux&theme=github" alt="Repos per language" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github" alt="Most commit language" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iceflux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iceflux&theme=github" alt="Most commit language" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=z123p2&hide_border=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=z123p2&hide_border=true" alt="Streak stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iceflux&hide_border=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=iceflux&hide_border=true" alt="Streak stats" />
 </picture>
 
 ## Contacts

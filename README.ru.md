@@ -45,52 +45,52 @@
 
 | Проект | Описание |
 |---|---|
-| [neiro_sotrudnik_44fz_rag_agent](https://github.com/z123p2/neiro_sotrudnik_44fz_rag_agent) | RAG-агент по госзакупкам 44-ФЗ: гибридный поиск, HyDE, реранкинг, граф знаний |
-| [knowledge-base-olympics-2022-bot](https://github.com/z123p2/knowledge-base-olympics-2022-bot) | Telegram-бот: поиск по эмбеддингам + ответы GPT по базе знаний |
+| [neiro_sotrudnik_44fz_rag_agent](https://github.com/iceflux/neiro_sotrudnik_44fz_rag_agent) | RAG-агент по госзакупкам 44-ФЗ: гибридный поиск, HyDE, реранкинг, граф знаний |
+| [knowledge-base-olympics-2022-bot](https://github.com/iceflux/knowledge-base-olympics-2022-bot) | Telegram-бот: поиск по эмбеддингам + ответы GPT по базе знаний |
 
 ### Data Science
 
 | Проект | Описание |
 |---|---|
-| [churn_prediction](https://github.com/z123p2/churn_prediction) | Прогноз оттока клиентов на XGBoost: EDA, важность признаков, бизнес-выводы |
+| [churn_prediction](https://github.com/iceflux/churn_prediction) | Прогноз оттока клиентов на XGBoost: EDA, важность признаков, бизнес-выводы |
 
 ### ИИ-приложения
 
 | Проект | Описание |
 |---|---|
-| [android_flutter_aichat](https://github.com/z123p2/android_flutter_aichat) | Чат для OpenRouter.ai (Flutter, Dart): PIN-авторизация, SQLite, APK на GitHub Actions |
-| [android_flet_aichat](https://github.com/z123p2/android_flet_aichat) | То же приложение на Python (Flet): две реализации одного продукта |
+| [android_flutter_aichat](https://github.com/iceflux/android_flutter_aichat) | Чат для OpenRouter.ai (Flutter, Dart): PIN-авторизация, SQLite, APK на GitHub Actions |
+| [android_flet_aichat](https://github.com/iceflux/android_flet_aichat) | То же приложение на Python (Flet): две реализации одного продукта |
 
 ### Автоматизация
 
 | Проект | Описание |
 |---|---|
-| [python_quiz_12_5_bot](https://github.com/z123p2/python_quiz_12_5_bot) | Telegram-бот викторина: aiogram 3, async, статистика в SQLite |
+| [python_quiz_12_5_bot](https://github.com/iceflux/python_quiz_12_5_bot) | Telegram-бот викторина: aiogram 3, async, статистика в SQLite |
 | Chrome-расширения | Автоматизация Colab, копирование ссылок |
-| [pix_gpt_copyright](https://github.com/z123p2/pix_gpt_copyright) | RPA-робот (PIX Studio): парсинг новостей -> перевод ChatGPT -> генерация картинки -> Word -> Telegram |
-| [pix_bank_guarantee](https://github.com/z123p2/pix_bank_guarantee) | RPA-робот (PIX Studio): анкеты по IMAP -> валидация Excel -> форма банка -> уведомления (Telegram/email/ЛВС/PostgreSQL) |
-| [uipath_bitrix24_lead_manager](https://github.com/z123p2/uipath_bitrix24_lead_manager) | RPA-робот (UiPath): лиды Битрикс24 через REST API, отчёты в Excel |
-| [android_callstopspam](https://github.com/z123p2/android_callstopspam) | Приложение Android (Java, API 16+): автосброс звонков с неизвестных номеров, режим полёта по расписанию |
+| [pix_gpt_copyright](https://github.com/iceflux/pix_gpt_copyright) | RPA-робот (PIX Studio): парсинг новостей -> перевод ChatGPT -> генерация картинки -> Word -> Telegram |
+| [pix_bank_guarantee](https://github.com/iceflux/pix_bank_guarantee) | RPA-робот (PIX Studio): анкеты по IMAP -> валидация Excel -> форма банка -> уведомления (Telegram/email/ЛВС/PostgreSQL) |
+| [uipath_bitrix24_lead_manager](https://github.com/iceflux/uipath_bitrix24_lead_manager) | RPA-робот (UiPath): лиды Битрикс24 через REST API, отчёты в Excel |
+| [android_callstopspam](https://github.com/iceflux/android_callstopspam) | Приложение Android (Java, API 16+): автосброс звонков с неизвестных номеров, режим полёта по расписанию |
 
 ## Статистика GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z123p2&theme=github" alt="Статистика GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iceflux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iceflux&theme=github" alt="Статистика GitHub" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z123p2&theme=github" alt="Репо по языкам" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iceflux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iceflux&theme=github" alt="Репо по языкам" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z123p2&theme=github" alt="Топ языков по коммитам" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iceflux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iceflux&theme=github" alt="Топ языков по коммитам" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=z123p2&hide_border=true&locale=ru&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=z123p2&hide_border=true&locale=ru" alt="Серия контрибуций" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iceflux&hide_border=true&locale=ru&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=iceflux&hide_border=true&locale=ru" alt="Серия контрибуций" />
 </picture>
 
 ## Контакты
